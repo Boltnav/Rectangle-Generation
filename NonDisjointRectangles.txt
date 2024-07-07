@@ -1,0 +1,1 @@
+rects = [Rectangle(bottomLeft=(29, 10), topRight=(43, 50)), Rectangle(bottomLeft=(44, 39), topRight=(67, 96)), Rectangle(bottomLeft=(28, 1), topRight=(57, 13)), Rectangle(bottomLeft=(26, 0), topRight=(94, 29)), Rectangle(bottomLeft=(77, 79), topRight=(80, 99))]
